@@ -31,4 +31,4 @@ Cada carpeta contiene materiales relevantes para su respectiva categoría, inclu
 Tus contribuciones son bienvenidas! Si tienes ejemplos de código, tutoriales o proyectos que crees que pueden ser útiles para la comunidad, por favor considera realizar un pull request.
 
 ## Licencia
-Este proyecto está licenciado bajo la Licencia GNU GPL-3.0 - ver el archivo LICENSE.md para más detalles.
+Este proyecto está licenciado bajo la Licencia GPL-3.0 - ver el archivo LICENSE.md para más detalles.
