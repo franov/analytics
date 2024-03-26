@@ -1,10 +1,10 @@
 # Bienvenido al Camino del Análisis de Datos con Python
 
-Este directorio es tu puerta de entrada a un mundo de posibilidades en el análisis de datos, diseñado específicamente para profesionales que están dando sus primeros pasos en Python. Aquí encontrarás una colección curada de recursos, ejercicios y proyectos reales para guiarte en tu viaje desde principiante hasta experto en análisis de datos.
+Este directorio es tu puerta de entrada a un mundo de posibilidades en el análisis de datos, diseñado específicamente para profesionales que están dando sus primeros pasos en Python. Aquí encontrarás una colección de recursos, ejercicios y proyectos reales para guiarte en tu viaje desde principiante hasta experto en análisis de datos.
 
-## Nuestra Misión
+## La Misión
 
-Creemos firmemente en el poder de los datos para transformar industrias, impulsar la innovación y crear conocimiento. Nuestra misión es empoderarte con las habilidades necesarias para descubrir insights valiosos a través de los datos, utilizando uno de los lenguajes de programación más versátiles y demandados en el mundo: Python.
+Creo firmemente en el poder de los datos para transformar industrias, impulsar la innovación y crear conocimiento. Nuestra misión es empoderarte con las habilidades necesarias para descubrir insights valiosos a través de los datos, utilizando uno de los lenguajes de programación más versátiles y demandados en el mundo: Python.
 
 ## ¿Qué Encontrarás Aquí?
 
