@@ -37,7 +37,7 @@ Una vez instaladas las dependencias, puedes ejecutar el juego usando el siguient
    ```bash
    python runner.py
    ```
-   
+
 Esto abrirá una ventana del juego donde podrás jugar Tic-Tac-Toe contra la IA. Elige si deseas jugar como "X" o "O" y disfruta del desafío.
 
 ## Funciones Principales
