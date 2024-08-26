@@ -19,12 +19,13 @@ Este proyecto implementa el clásico juego de Tic-Tac-Toe (conocido como "el gat
 
 1. Clona el repositorio en tu máquina local:
    ```bash
-   git clone https://github.com/franov/analytics/tictactoe-ai.git
+   git clone https://github.com/franov/analytics.git
+   
    ```
 
 2. Navega al directorio del proyecto:
     ```bash
-    cd tictactoe-ai
+    cd analytics/tictactoe-ai
    ```
 
 3. Instala las dependencias necesarias:
