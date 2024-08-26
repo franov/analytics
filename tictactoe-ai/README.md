@@ -41,21 +41,21 @@ Una vez instaladas las dependencias, puedes ejecutar el juego usando el siguient
 Esto abrirá una ventana del juego donde podrás jugar Tic-Tac-Toe contra la IA. Elige si deseas jugar como "X" o "O" y disfruta del desafío.
 
 ## Funciones Principales
-tictactoe.py
+### `tictactoe.py`
 
-    player(board): Determina qué jugador tiene el siguiente turno en el tablero.
-    actions(board): Devuelve un conjunto de todas las acciones posibles en el tablero dado.
-    result(board, action): Devuelve el nuevo estado del tablero después de que un jugador realiza una acción.
-    winner(board): Determina si hay un ganador en el tablero.
-    terminal(board): Determina si el juego ha terminado.
-    utility(board): Devuelve la utilidad del tablero en un estado terminal.
-    minimax(board): Implementa el algoritmo Minimax para determinar el mejor movimiento posible.
+- **`player(board)`**: Determina qué jugador tiene el siguiente turno en el tablero.
+- **`actions(board)`**: Devuelve un conjunto de todas las acciones posibles en el tablero dado.
+- **`result(board, action)`**: Devuelve el nuevo estado del tablero después de que un jugador realiza una acción.
+- **`winner(board)`**: Determina si hay un ganador en el tablero.
+- **`terminal(board)`**: Determina si el juego ha terminado.
+- **`utility(board)`**: Devuelve la utilidad del tablero en un estado terminal.
+- **`minimax(board)`**: Implementa el algoritmo Minimax para determinar el mejor movimiento posible.
 
-runner.py
+### `runner.py`
 
-    Proporciona una interfaz gráfica donde los jugadores pueden interactuar con el juego.
-    Permite seleccionar si deseas jugar como "X" o "O".
-    Muestra el tablero, maneja los turnos y muestra el resultado final del juego.
+- Proporciona una interfaz gráfica donde los jugadores pueden interactuar con el juego.
+- Permite seleccionar si deseas jugar como "X" o "O".
+- Muestra el tablero, maneja los turnos y muestra el resultado final del juego.
 
 ## Ejemplo de Juego
 Al iniciar el juego, se te pedirá que elijas si deseas jugar como "X" o "O". La IA jugará automáticamente cuando sea su turno, utilizando el algoritmo Minimax para garantizar el mejor movimiento posible.
@@ -65,3 +65,4 @@ Este proyecto fue desarrollado como parte de un curso de Inteligencia Artificial
 
 ## Licencia
 Este proyecto está bajo la Licencia MIT - ver el archivo LICENSE para más detalles.
+
