@@ -1,4 +1,4 @@
-# Tic-Tac-Toe AI with Minimax
+# Tic-Tac-Toe AI con Minimax
 
 ## Descripción
 
@@ -20,19 +20,23 @@ Este proyecto implementa el clásico juego de Tic-Tac-Toe (conocido como "el gat
 1. Clona el repositorio en tu máquina local:
    ```bash
    git clone https://github.com/franov/analytics/tictactoe-ai.git
-   
+   ```
+
 2. Navega al directorio del proyecto:
     ```bash
     cd tictactoe-ai
-   
+   ```
+
 3. Instala las dependencias necesarias:
    ```bash 
    pip install -r requirements.txt
+   ```
 
 ## Uso
 Una vez instaladas las dependencias, puedes ejecutar el juego usando el siguiente comando:
-   ```bash 
+   ```bash
    python runner.py
+   ```
    
 Esto abrirá una ventana del juego donde podrás jugar Tic-Tac-Toe contra la IA. Elige si deseas jugar como "X" o "O" y disfruta del desafío.
 
